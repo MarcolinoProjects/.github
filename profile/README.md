@@ -4,7 +4,7 @@
 
 **Marcolino Projects** serves as a curated showcase of the most distinguished software projects spearheaded or significantly contributed to by Victor Marcolino. These repositories underline Victor's expertise as a DevOps Software Engineer and full-stack developer, with the organization encapsulating a journey of dedication, learning, and mastery in the tech domain.
 
-## Founder: Victor Marcolino
+## Who is Victor Marcolino
 
 **Victor Marcolino** is a seasoned software engineer and DevOps specialist. He holds two degrees, including a Bachelor's in Science & Technology and a degree in Mechatronic Engineering from the Federal University of Rio Grande Do Norte. With international experience ranging from Brazil to the Netherlands, he has held prominent roles at esteemed institutions like IBM and Swisscom.
 
